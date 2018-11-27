@@ -1,5 +1,32 @@
-This is my first repository.
+# This is my first repository.
 
-I'm a VCD major at Herron School of Art and Design
+_I'm a **VCD major** at Herron School of Art and Design_
 
-This is a test
+This is a list
+
+1. Art
+1. Design
+1. Expressionisim 
+   1. Ideas
+   1. Thoughts
+   
+[Herron School of Art + Design](https://herron.iupui.edu/)
+
+If you can think it.:
+
+> You can make it.
+
+
+- [x] @tatemill, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+~~crossed out words~~
+
+:dog: :cat: :cat: :cat: :turtle: :turtle: :dragon:
